@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://capzula.github.io/resources-yw0ehh/sitemap.xml
